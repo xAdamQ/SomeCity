@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6320c9bd0fa310a4b8c6ab56acfe0af4, type: 3}
+  m_Name: Wallpaper Profile
+  m_EditorClassIdentifier: 
+  WallpaperType: 0
+  Palette:
+  - {r: 0.3773585, g: 0.3773585, b: 0.3773585, a: 1}
+  - {r: 0.04313724, g: 0.6784314, b: 0.5936288, a: 1}
+  - {r: 0, g: 0.51200455, b: 0.8113208, a: 1}
+  - {r: 0.20754719, g: 0.20754719, b: 0.20754719, a: 1}
+  - {r: 0.6784314, g: 0.04313724, b: 0.60172176, a: 1}
+  MixTime: 10
